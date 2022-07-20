@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Optimal Sleep Calculator</string>
+    <string name="page_start">Set Start Time</string>
+    <string name="page_end">Set End Time</string>
+</resources>
